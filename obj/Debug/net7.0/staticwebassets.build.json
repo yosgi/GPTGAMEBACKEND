@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BSLcYtrwV6XKmATd8je9G4JRgNKbQjtXJSXGF8YsKIo=",
+  "Source": "GPTGAMEApi",
+  "BasePath": "_content/GPTGAMEApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
